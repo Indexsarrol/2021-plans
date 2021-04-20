@@ -5,8 +5,8 @@
 ## React技术栈
 
 - `React`源码的学习；
-- `React Hooks`，目前正在进行中；
-- `Redux`使用以及原理；
+- `React Hooks`，目前正在进行中； ===> 已完成
+- `Redux`使用以及原理； ===> 已完成
 - `React-Next`基于服务器端渲染；
 
 ## Vue技术栈
